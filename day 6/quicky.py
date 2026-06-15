@@ -1,0 +1,1 @@
+print ("i am sorry to everyone, i am fucking tired, its 11:10 pm and i need to post python file  this is some cowards shit , not recommended to anyone at all , peace. i will deliver extra creamy project tomorrow i swear on my .. hair")

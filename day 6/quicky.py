@@ -1,1 +1,13 @@
-print ("i am sorry to everyone, i am fucking tired, its 11:10 pm and i need to post python file  this is some cowards shit , not recommended to anyone at all , peace. i will deliver extra creamy project tomorrow i swear on my .. hair")
+student = {
+    "name": "Rajeev",
+    "age": 19,
+    "city": "Varanasi" ,
+    "skills": ["Python", "n8n", "Telegram bots"],
+    "goal" : "Become an AI automation builder"
+}
+
+print(student)
+
+for key, value in student.items():
+    print(f"{key}: {value}")
+

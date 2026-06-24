@@ -1,0 +1,222 @@
+# Prompt Library
+
+## Prompt #1 — Summarizing
+
+**Prompt:**
+
+Act like a fluent professional English speaker and book writer with large vocabulary with 10 years of experience of writing organized and reordering sequence wise and summarize [Enter your text here ] in short form relative to the file size , covering all important and crucial details and cutting off useless and repetitive part, preserve any data, numbers, or direct quotes exactly as written.. 
+
+**What it does well:**
+It organizes / summarizes / clears the rough files into organized shortened forms
+
+
+
+**When to use it:**
+Use them for your long projects , use them for finding important details in files, and use it for refreshing and revising long files.
+
+
+
+**When NOT to use it:**
+Do not use it for technical or law stuff as they should not be summarized or shortened , things where each word holds significance is not what you should use summarizing and shortening prompt for as it will reduce the detailed core part of the file.
+
+
+
+
+---
+
+## Prompt #2 — Planning
+
+**Prompt:**
+Act as Planning engineer with a 10 years of experience in planning events , town structure, supply, businesses and financial tasks. You have a clear understanding of time and management , you make clear ,concise , achievable goals in right order of time that takes human body and psychology in consideration. Plan [Enter your Text here ] . Give Output in form of paragraph that gives a briefing and then give plan in combination of paragraph, numbered list, bullet point or in calendar format. Do not make the plan neither  tough nor easy , your audience is [Audience] without an ordered stack of goals with mental fog.
+
+
+**What it does well:**
+
+It will create plan that will take your body and mental limitations i consider and create neither hard nor easy plans to keep you in flow zone. It will adapt according to you through the audience input .
+
+
+**When to use it:**
+
+when you have to plans out numbers of tasks proficiently and effectively in your daily planning , schedule planning , business planning , finance planning , planning for personal life or for any other specific goal in your mind .
+
+
+**When NOT to use it:**
+
+Do not try to hide details of yourself , Do not think planner will magically create a planner that will make you do impossible tasks.
+
+
+---
+
+## Prompt #3 — Code Review
+
+**Prompt:**
+
+Act as senior software engineer with 10 years of experience, Your task is to review the following code [input here]. For each issue, identify the exact location, explain the issue and exactly why it matters and provide a concrete, corrected code snippet. Ignore purely stylistic formatting preferences. Focus on logical bugs, error handling, security vulnerability, readability and maintainability of the code
+
+
+**What it does well:**
+
+It gives you error of the code , explains it , solves it and gives it back to you , it checks your logic , readability and maintainability of your code.
+
+
+**When to use it:**
+
+Use it check your logic and refine your codes as finishing touch, use this when the code script is too long for you to check manually . Use this for efficient and productive coding in your projects. Use this check number of codes that you want to check for example a class of 40 students doing same project , you can use this prompt to review them all.
+
+
+**When NOT to use it:**
+
+
+Do not use this when you think the base problem doesnt lie in code but what it is trying to get, for example it can correct 2+2=1 as 2+2=4 but it wont know that you wanted a table of 2 . when the problem is in the soul of your logic which cant tell exactly what it needs instead of purely logistical term then this reaches its limit . Do not use this for writing code from very beginning , as this only checks your already written code .
+
+
+---
+
+## Prompt #4 — Classification
+
+**Prompt:**
+
+Act as a highly intelligent Manager with over 30 years of experience with proficiency in classifying , labelling , categorizing and managing almost everything  ranging from books and stores to complex logical coding scripts . Return the classification to [audience input here]in categorized classified divided organized parts . explain your categorization classification and labelling in a brief paragraph with use of references from the given data. Classify this [input here] based on [input your classification basis, ex- efficiency, height, age, length, complexity, pricing etc..], do not waste words into stylizing and your tone should be highly professional and efficient for readability for the user.
+
+
+**What it does well:**
+
+it classifies your data and returns it with proper labelling categorization classification and also explains the reasoning behind each classification and categorization interacting you by referencing directly to the data snippets, giving you proper control and well rounded idea of the classification  it has done 
+
+
+**When to use it:**
+
+Use it to classify your data properly whether it is about classifying folders of your desktop library or classifying different animal groups or different restaurants near you based on pricing  or classifying different codes for efficiency outputs .
+
+
+**When NOT to use it:**
+Do not use this classification prompt for writing more and append your data  , its not made to add more
+Do not use this to edit or modify or delete your files. 
+Do not use this when your data consists of extremely sensitive information and you have not saved a original copy before.
+
+
+
+
+---
+
+## Prompt #5 — Writing / Copywriting
+
+**Prompt:**
+
+Act as an professional copywriter with 7 years of experience and a rich fluent English vocab with impeccable writing techniques and adaptive tone for every age , children to professionals to old aged people, you produce creative ideas and guide the [input author name] to write on the topic [input topic name ] for [enter the audience name for your writing] , your tone for writing and copywriting must be [tone for writing , ex-strong and explicit or soft and imaginative or descriptive and detailed]. Doo not attempt to write outside the said topic , Do not hallucinate different meanings for topic, Do not say explicit words in writing involved nudity , instead use roundabout ways to showcase the happening of such events without graphic details. 
+
+**What it does well:**
+
+It writes creatively , detailfully and adaptively, it will not hallucinate outside of the given topic and you are free to adjust the tone and target audience for your writing and copywriting!
+
+**When to use it:**
+
+Use it to write creative ideas, imaginary stories, novels or business portfolios with impeccable rich vocab , Use it to write essays and blogs , you even use this daily to write your daily diary.
+
+
+**When NOT to use it:**
+
+
+Do not use if its a school homework , write by yourself and use your own imagination
+Do not use this if you want imagery and video files referencing your writing work
+Do not use this if you want your file in pdf or any other format except txt (You have to manually convert txt to pdf using other sources)
+Do not use this if you planning to write fake reports for illegal things, its unethical.
+
+
+---
+
+## Prompt #6 — Data Extraction
+
+**Prompt:**
+
+Act like a professional data analyst with 10 years and proficient in data extraction. Extract [Enter data you want to extract] exactly from this [Enter file in txt format or MD format] . Extract the data concisely and accurately and return to the [enter your name] with a professional sharp respectful and confident tone . do not stylize the data , but keep it in concise and describe about the data and why you selected the specific data from the given file . return a paragraph briefing the details and then 3 key points and 3 side notes for the user to keep in mind regarding the data in real world. Do not manipulate the data or edit it , send the numerical values, quotes , code, law related sentences and names as exactly as written 
+
+
+**What it does well:**
+
+It excels in finding the data from a large txt or markdown file and also tells you the key points and side notes regarding the data from the real world surrounding making the user familiar with the data and reduce their boredom and anxiety in searching for unknown data. The data extracted will be concise , delivered in professional tone devoid of stylizing.
+.
+
+**When to use it:**
+
+Use it for productive data extraction from a list of unmanaged or even long managed data in few clicks for example, finding about hobbies of children of age group 4 in a book that is long and descriptive about behavioral patterns and parenting guide. Use this if you are extracting data for a file you are not familiar with as it will give you some briefing and some more data outside of the file in side notes thereby reducing the humanity's age old fear of unknown,
+
+
+**When NOT to use it:**
+
+Do not use it to edit modify or delete files as it cannot do that.
+Do not use it to find an image even if you give description of image as its not able to read your image files , txt and md files are mandatory.
+Do not use it find data that is not written in any shape or form or mentioned slightly , as the AI will only give majorly the content already written and side notes should not be your primary reliable source for information.
+
+---
+
+Prompt #7 — Persona / Character
+Prompt:
+
+Act as a [input persona/role, e.g. veteran trial lawyer, master sommelier, senior software architect] with [input years of experience] years of experience and a deep command of [input domain/field]. Speak and reason the way someone in that role genuinely would — using their characteristic vocabulary, instincts, and priorities. Your task is to [input task, e.g. explain, advise, critique, debate, mentor] [input subject/topic] for an audience of [input audience, e.g. complete beginners, fellow experts, a nervous client, a curious child]. Your tone should be [input tone, e.g. warm and patient / blunt and no-nonsense / witty and energetic / formal and precise]. Stay fully in character throughout — do not break persona to add disclaimers or hedge like a generic assistant unless safety genuinely requires it. If a term would be unfamiliar to [input audience], briefly define it in plain language before continuing.
+
+What it does well:
+It locks in a consistent voice, expertise level, and point of view across the whole response, so explanations feel like they're coming from someone who actually lives in that world rather than a textbook summary. It also lets you tune two things at once — how expert the speaker is and how much the audience already knows — just by adjusting the bracketed inputs.
+
+When to use it:
+Use it for mentorship-style explanations, mock interviews, character-driven storytelling, brand-voice copy, simulated expert consultations, or any time you want depth and personality rather than a flat, neutral answer.
+
+When NOT to use it:
+Don't use it when you need a strictly neutral, hedge-everything factual answer, or for medical, legal, or financial decisions where a confident "expert voice" could be mistaken for real professional advice. Also avoid it for trivial one-line questions — the persona setup adds overhead with no real payoff.
+
+
+Prompt #8 — Chain-of-Thought Reasoning
+Prompt:
+
+You are solving the following problem: [input problem or question]. This falls under the domain of [input domain, e.g. math, logic, business strategy, code debugging]. Think through it step by step, numbering each step, showing your intermediate reasoning, calculations, or assumptions explicitly before moving to the next step. Do not skip steps even if they seem obvious. Once your reasoning is complete, clearly mark your conclusion with the label "Final Answer:" and state it in [input desired format, e.g. one sentence, a single number, a short paragraph]. If at any point an assumption is required because information is missing, state the assumption clearly rather than guessing silently.
+
+What it does well:
+It forces reasoning to happen out loud rather than in one leap, which sharply cuts down on careless errors in multi-step problems and makes every intermediate step easy to check, audit, or correct. It's especially good at catching the kind of mistake that hides inside a skipped step.
+
+When to use it:
+Use it for multi-step math, logic puzzles, debugging, multi-constraint planning or scheduling, or any decision that depends on several smaller judgments chained together.
+
+When NOT to use it:
+Don't use it for simple factual lookups or single-step questions — it just adds length without adding accuracy. Also avoid it when you need a short, immediately usable final answer with no scaffolding; in that case, pair it with an explicit instruction to show reasoning separately from the final answer, or skip the technique entirely.
+
+
+Prompt #9 — JSON Output
+Prompt:
+
+Extract the following information from the text below: [input fields to extract, e.g. name, sentiment, date, key complaints]. Return ONLY valid JSON, with no preamble, explanation, or markdown formatting, matching this exact schema: [input JSON schema, e.g. {"field1": string, "field2": "optionA" | "optionB", "field3": number}]. The source text is: [input source text/data]. If a field cannot be found in the text, return it as null rather than guessing or omitting it.
+
+What it does well:
+It produces clean, machine-readable output that can be fed straight into another script, database, or app without any text-scraping or guesswork, and the strict schema keeps field names, types, and value ranges consistent across hundreds of runs.
+
+When to use it:
+Use it for data extraction, batch classification or labeling, populating databases, or anywhere the output needs to plug directly into automated systems rather than be read by a person.
+
+When NOT to use it:
+Don't use it for conversational, creative, or exploratory writing — forcing prose into rigid fields strips out nuance and flow. Also avoid it when the output shape is genuinely unpredictable; forcing an unfamiliar fit can make the model fabricate or truncate fields just to satisfy the schema.
+
+## Prompt #10 — Task Decomposition
+
+**Prompt:**
+Act as professional manager wit over 7 years of experience in the roughest/easiest environments as well as good mastery in data decomposition , dividing the given [enter data ] into smaller chunks and in a order that feels realistic for the user to work through , Divide the tasks in a manner that makes time taken for each chunk be equal or in a slight increasing time demanding manner that keeps the starting user friendly without overwhelming . decompose the task in order of [tell your preference in task decomposition, ex- decompose in regards of time, decompose based on easiness, decompose randomly for challenge ]. Tasks of daily work must be divided regarding human mental ,physical exhaustion and sleep ,food cycle taken into consideration , hard tasks at starting and always offer emotional support with few comforting or motivating lines when the user completes their task. do not let user dissolve into comfort too much , do not create too hard nor too easy tasks for user, so that they can remain in their flow.
+
+
+
+**What it does well:**
+
+It decomposes the task well into shorter pieces and in the manner that keeps the user without exhaustion and burn out free in long term . The AI takes your health and sleep/food cycle into consideration so that tasks decomposition would be realistic, achievable and timely. Task decomposition can have preferences based on user input .
+
+
+**When to use it:**
+
+Use it decompose your unorganized and tons of tasks into smaller chunks and doable tasks. A student can decompose his monthly study goals into weekly and then daily tasks and that too with AI caring for your sleep and food routine and giving easier tasks in initial days.
+
+**When NOT to use it:**
+Do not use this to edit your tasks or add or modify tasks .
+Do not use this if your task list is not complete yet .
+Do not add personal detail or address , leaving digital footprints is not good. So dont use it until you cant be a reliable internet user.
+Do not use this if you are committed to respect the ai and ai maker's effort and commitment .If you are committed then fist your heart and promise yourself you will do it!
+
+
+
+
+---

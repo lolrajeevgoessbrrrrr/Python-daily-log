@@ -1,0 +1,22 @@
+# Day 2 – Quiz Game 🎯
+
+## What it does
+A terminal-based quiz game that asks 5 math questions,
+checks your answers, and gives you a final score.
+
+## Tech Stack
+- Python 3 (built-in only)
+
+## How to run
+python quiz.py
+
+## What I learned
+- Functions with parameters
+- Conditionals (if/else)
+- Lists of tuples
+- For loops
+- f-strings
+
+## Output
+Tells you if you got each question right or wrong,
+then prints your final score out of 5.

@@ -1,0 +1,19 @@
+# Day 4 – Note Taker 📝
+
+## What it does
+A terminal-based note taking app that lets you
+add notes and view all saved notes — persisted
+to a local text file between sessions.
+
+## Tech Stack
+- Python 3 (built-in only)
+- File I/O (open, read, write)
+
+## How to run
+python note_taker.py
+
+## What I learned
+- File handling with open() in append and read mode
+- While True loops for interactive menus
+- Try/except for FileNotFoundError
+- Structuring code

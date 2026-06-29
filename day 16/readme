@@ -1,0 +1,29 @@
+# Day 16 – Web Scraper with BeautifulSoup 🕸️
+
+## What it does
+Two scrapers built on the same day — one for Times of India,
+one for Hacker News. Each fetches the top 10 headlines
+and saves them to a headlines.txt file.
+
+## Tech Stack
+- Python 3
+- requests
+- BeautifulSoup4
+
+## Setup
+pip install requests beautifulsoup4
+
+## How to run
+python toi.py          # scrapes Times of India
+python hackerwebsite.py   # scrapes Hacker News
+
+## What I learned
+- Sending requests with User-Agent headers
+- Parsing HTML with BeautifulSoup
+- find_all() with class selectors
+- Deduplication with set()
+- Saving scraped data to a text file
+
+## Output
+headlines.txt with top 10 numbered headlines
+from the selected news source.

@@ -1,0 +1,19 @@
+# Day 5 – Python Dictionaries 📚
+
+## What it does
+Explores Python dictionaries using a real-world
+example — a student profile with nested lists.
+
+## Tech Stack
+- Python 3 (built-in only)
+
+## How to run
+python dictionary.py
+
+## What I learned
+- Creating dictionaries with key-value pairs
+- Storing lists as dictionary values
+- Accessing and printing dictionary data
+
+## Output
+Prints a structured student profile dictionary.

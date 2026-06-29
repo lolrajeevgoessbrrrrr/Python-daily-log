@@ -1,0 +1,21 @@
+# Day 6 – Dictionary Iteration 🔁
+
+## What it does
+Extends the Day 5 dictionary by iterating through
+all key-value pairs using .items() and printing
+them in a clean format.
+
+## Tech Stack
+- Python 3 (built-in only)
+
+## How to run
+python quicky.py
+
+## What I learned
+- Iterating dictionaries with .items()
+- Unpacking key-value pairs in a for loop
+- f-string formatting with dynamic keys and values
+
+## Output
+Prints each dictionary field on its own line
+as "key: value".

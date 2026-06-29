@@ -1,0 +1,22 @@
+# Day 3 – API Fetcher & Library 📡
+
+## What it does
+Fetches post data from a public REST API (JSONPlaceholder)
+and lets the user pick any post number (1-10) to retrieve.
+
+## Tech Stack
+- Python 3
+- requests
+
+## How to run
+pip install requests
+python library.py
+
+## What I learned
+- Making GET requests with requests library
+- Parsing JSON responses
+- Dynamic user input with API calls
+- f-strings with URL building
+
+## Output
+Prints the title, body and user ID of the selected post.

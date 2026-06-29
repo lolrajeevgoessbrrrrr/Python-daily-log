@@ -1,0 +1,34 @@
+# Day 14 – Multi-Turn Chatbot with Memory Control 🧠
+
+## What it does
+A terminal AI chatbot with full conversation memory
+and manual memory management — see how many messages
+are loaded, or wipe the slate clean without restarting.
+
+## Tech Stack
+- Python 3
+- groq
+- python-dotenv
+
+## Setup
+pip install groq python-dotenv
+
+# Create a .env file:
+GROQ_API_KEY=your_key_here
+
+## How to run
+python day14.py
+
+## Commands
+- Any message → AI replies with full conversation context
+- 'history' → shows how many messages are in memory
+- 'clear' → resets memory, starts fresh conversation
+- 'quit' → exits
+
+## What I learned
+- How conversation history accumulates tokens over time
+- Manually managing memory to control API costs
+- Reusable function for resetting history cleanly
+
+## Output
+Live AI chat session with token-aware memory control.

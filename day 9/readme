@@ -1,0 +1,38 @@
+# Day 9 – APIs & Error Handling 🌤️😂
+
+## What's inside
+
+### jokes.py
+Fetches a random joke from a public API and prints
+the setup and punchline. Handles connection and
+HTTP errors gracefully.
+
+### weather.py
+Takes a city name as input and fetches live weather
+data from OpenWeatherMap API — temperature, feels like,
+condition, and humidity.
+
+## Tech Stack
+- Python 3
+- requests
+- python-dotenv
+- OpenWeatherMap API (free tier)
+
+## How to run
+pip install requests python-dotenv
+
+# For weather.py — create a .env file first:
+OWM_API_KEY=your_key_here
+
+python jokes.py
+python weather.py
+
+## What I learned
+- raise_for_status() for HTTP error checking
+- Multiple except blocks for different error types
+- Loading API keys safely with python-dotenv
+- Parsing nested JSON responses
+
+## Output
+jokes.py → random joke setup + punchline
+weather.py → live weather for any city

@@ -1,0 +1,23 @@
+# Day 7 – Student Database 🎓
+
+## What it does
+A terminal app that collects data for 3 students
+(name, age, city), stores them as dictionaries
+in a list, and displays all records. Also demonstrates
+live data modification after storage.
+
+## Tech Stack
+- Python 3 (built-in only)
+
+## How to run
+python student.py
+
+## What I learned
+- List of dictionaries as a simple database
+- Input validation with try/except ValueError
+- Modifying dictionary values after storage
+- Functions that build and append dictionaries
+
+## Output
+Prints all student records before and after
+modifying the first student's age.

@@ -1,0 +1,24 @@
+# Day 8 – Daily Notes App 📓
+
+## What it does
+A terminal-based journaling app that saves notes
+with today's date automatically stamped on each entry.
+Notes persist to a local file between sessions.
+
+## Tech Stack
+- Python 3 (built-in only)
+- datetime (built-in)
+- File I/O
+
+## How to run
+python notes.py
+
+## What I learned
+- Importing and using datetime.date
+- Appending timestamped entries to a file
+- While True menu loop with clean error handling
+- try/except FileNotFoundError
+
+## Output
+Saves notes to notes.txt with date prefix.
+Displays all notes on demand.

@@ -1,0 +1,36 @@
+# StudyMate AI 🎓
+
+## What it does
+A terminal-based AI tutor powered by Groq's LLM.
+Maintains full conversation memory across the session,
+explains complex topics simply, and lets you save
+the entire chat to a timestamped file.
+
+## Tech Stack
+- Python 3
+- groq
+- python-dotenv
+- datetime (built-in)
+
+## Setup
+pip install groq python-dotenv
+
+# Create a .env file:
+GROQ_API_KEY=your_key_here
+
+## How to run
+python studymate.py
+
+## Commands
+- Type any question → get a patient AI tutor response
+- Type 'save' → saves full conversation to chat_[timestamp].txt
+- Type 'quit' → exits the program
+
+## What makes it special
+Full conversation history passed on every API call —
+the AI actually remembers what you said earlier in
+the session, just like a real tutor would.
+
+## Output
+Live AI tutoring session in terminal.
+Optional: saves chat history to a .txt file.

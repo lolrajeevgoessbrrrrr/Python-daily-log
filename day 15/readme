@@ -1,0 +1,33 @@
+# Day 15 – Refactored Summarizer (Clean Code) ✨
+
+## What it does
+A fully refactored version of the Day 11 summarizer.
+Reads a text file, generates an AI summary via Groq
+(3 bullet points + main takeaway), and saves it.
+Focus of this day was clean, professional code structure.
+
+## Tech Stack
+- Python 3
+- groq
+- python-dotenv
+
+## Setup
+pip install groq python-dotenv
+
+# Create a .env file:
+GROQ_API_KEY=your_key_here
+
+## How to run
+python refactored_scriptday11.py
+
+# When prompted:
+Enter the filename to summarise: notes.txt
+
+## What I learned
+- Module-level docstrings for professional documentation
+- Function docstrings explaining purpose clearly
+- Separating try/except blocks by responsibility
+- Clean code principles: readable, documented, maintainable
+
+## Output
+Saves AI-generated summary to summary_[input_filename]

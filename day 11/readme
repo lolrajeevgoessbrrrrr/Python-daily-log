@@ -1,0 +1,33 @@
+# Day 11 – AI File Summarizer 🤖
+
+## What it does
+Reads any text file, sends the content to Groq's
+LLM API, and saves a clean AI-generated summary
+(3 bullet points + one main takeaway) to a new file.
+
+## Tech Stack
+- Python 3
+- groq
+- python-dotenv
+
+## Setup
+pip install groq python-dotenv
+
+# Create a .env file:
+GROQ_API_KEY=your_key_here
+
+## How to run
+python summarizer.py
+
+# When prompted:
+Enter the filename to summarise: notes.txt
+
+## What I learned
+- Groq API client setup and authentication
+- System prompts to control AI behaviour
+- Combining file I/O with live AI API calls
+- Saving AI output directly to a new file
+
+## Output
+Creates summary_[filename] with an AI-generated
+summary of the input file.
